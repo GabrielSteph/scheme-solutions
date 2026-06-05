@@ -1,0 +1,3 @@
+(define (funx x) (* x -x))
+(define in (cons 'Hallo (cons (read) '())))
+(display in)
